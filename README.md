@@ -1,4 +1,4 @@
-# firstAngularApp
+# FirstAngularApp
 # Module 1 Coding Assignment
 
 Welcome to the Module 1 Coding Assignment for the "Single Page Web Applications with AngularJS" course on Coursera. In this assignment, you will create a front-end application using AngularJS. Follow the instructions below to complete the assignment.
