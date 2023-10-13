@@ -1,4 +1,4 @@
-# FirstAngularApp
+# firstAngularApp
 # Module 1 Coding Assignment
 
 Welcome to the Module 1 Coding Assignment for the "Single Page Web Applications with AngularJS" course on Coursera. In this assignment, you will create a front-end application using AngularJS. Follow the instructions below to complete the assignment.
@@ -35,21 +35,4 @@ Follow these steps to complete the assignment:
 12. Ensure that no variables, objects, or functions "leak to the global scope" (Hint: Use an IIFE - Immediately Invoked Function Expression).
 13. Once you're satisfied with your solution, add, commit, and push your code to your repository.
 
-## IMPORTANT REMINDERS
 
-- Follow the submission guidelines on Coursera.
-- Ensure you provide the correct URL in your submission, which should be GitHub.io, not GitHub.com.
-- Test your assignment both on your local machine and on GitHub Pages using the provided URL before submitting.
-- This assignment will be peer-reviewed and graded, and failing to follow instructions may result in a failed grade.
-
-## BONUS (OPTIONAL AND NOT GRADED)
-
-You can also implement the following bonus features if you like:
-
-- Change the font color to green for "Enjoy!" or "Too much!" messages and red for "Please enter data first."
-- Change the border color around the textbox to green for "Enjoy!" or "Too much!" messages and red for "Please enter data first."
-- Implement the handling of empty items in the list as described in the instructions.
-
-Please include a comment in your code to indicate that you do not consider empty items, such as `, ,`, as items toward the count.
-
-Good luck with your assignment!
